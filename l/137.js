@@ -1,4 +1,4 @@
-CheetahData.setData([
+setData([
    [[ 1, 3, 7], [["ALL"],["1997","Q1","January"],["ALL","Food","Starchy Foods","Starchy Foods","Pasta","Jardon","Jardon Spaghetti"]], [19,10.26]],
    [[ 1, 3, 7], [["ALL"],["1997","Q1","January"],["ALL","Food","Canned Foods","Canned Soup","Soup","Just Right","Just Right Chicken Noodle Soup"]], [13,31.2]],
    [[ 1, 3, 7], [["ALL"],["1997","Q1","January"],["ALL","Drink","Dairy","Dairy","Milk","Booker","Booker Buttermilk"]], [15,37.05]],

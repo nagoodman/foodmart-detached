@@ -1,4 +1,4 @@
-CheetahData.setMetaData({
+setMetaData({
 dimensions: [
     {name: "Store", levels: [
         {name: "All"},

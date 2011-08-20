@@ -1,3 +1,3 @@
-CheetahData.setData([
+setData([
    [[ 1, 1, 1], [["ALL"],["1997"],["ALL"]], [266773,565238.13]] 
 ]);

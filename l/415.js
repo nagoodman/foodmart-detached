@@ -1,4 +1,4 @@
-CheetahData.setData([
+setData([
    [[ 4, 1, 5], [["ALL","USA","WA","Bellingham"],["1997"],["ALL","Food","Starchy Foods","Starchy Foods","Pasta"]], [26,48.25]],
    [[ 4, 1, 5], [["ALL","USA","WA","Bellingham"],["1997"],["ALL","Food","Canned Foods","Canned Soup","Soup"]], [66,134.29]],
    [[ 4, 1, 5], [["ALL","USA","WA","Bellingham"],["1997"],["ALL","Drink","Dairy","Dairy","Milk"]], [44,82.32]],

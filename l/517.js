@@ -1,4 +1,4 @@
-CheetahData.setData([
+setData([
    [[ 5, 1, 7], [["ALL","USA","WA","Bellingham","Store 2"],["1997"],["ALL","Food","Starchy Foods","Starchy Foods","Pasta","Jardon","Jardon Spaghetti"]], [5,2.7]],
    [[ 5, 1, 7], [["ALL","USA","WA","Bellingham","Store 2"],["1997"],["ALL","Food","Canned Foods","Canned Soup","Soup","Just Right","Just Right Chicken Noodle Soup"]], [1,2.4]],
    [[ 5, 1, 7], [["ALL","USA","WA","Bellingham","Store 2"],["1997"],["ALL","Drink","Dairy","Dairy","Milk","Booker","Booker Buttermilk"]], [4,9.88]],
